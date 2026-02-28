@@ -8,4 +8,3 @@ This repository contains course work and certifications related to Deep Learning
 - Certificate of completion
 - Screenshots of all quizzes and graded questions
 
-More assignments will be added in separate folders.
